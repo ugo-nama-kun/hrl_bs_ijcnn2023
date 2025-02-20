@@ -48,3 +48,17 @@ tensorboard --logdir runs
 ## Copyright
 Copyright (c) 2023-Present, Naoto Yoshida @ Intelligent Systems and Informatics Laboratory, The University of Tokyo
 All rights reserved.
+
+## Citation
+```
+@INPROCEEDINGS{10191925,
+  author={Yoshida, Naoto and Kanazawa, Hoshinori and Kuniyoshi, Yasuo},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Homeostatic Reinforcement Learning through Soft Behavior Switching with Internal Body State}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Motor drives;Neural networks;Switches;Reinforcement learning;Benchmark testing;Autonomous agents;Behavioral sciences;Homeostatic Reinforcement Learning;Homeostasis;Deep Reinforcement Learning;Neural Architecture},
+  doi={10.1109/IJCNN54540.2023.10191925}}
+```
